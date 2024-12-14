@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../landingpage"
+		}
+	],
+	"settings": {
+		"Path": "C:\\Program Files (Portable)\\PortableGit\\bin\\git.exe;C:\\Windows\\system32\\cmd.exe"
+	}
+}
